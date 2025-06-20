@@ -12,3 +12,4 @@ Simple Interest = (Principal × Rate × Time) / 100
 
 ## Author
 Created as part of a GitHub version control assignment.
+fix typo in README.md
